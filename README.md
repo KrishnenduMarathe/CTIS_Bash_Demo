@@ -1,2 +1,2 @@
 # CTIS_Bash_Demo
-Simple Crime Tracking Information System using Bash Script
+A CLI based SImple Crime Tracking Information System wriiten in bash script
